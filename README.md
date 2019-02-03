@@ -1,5 +1,5 @@
 # ShotCaller
-Gunshot Localizer made at MakeHarvard
+# Gunshot Localizer made at MakeHarvard
 Loosely based on failed ideas expressed in ProjectUno
 Initally intended to be a gunshot triangulator but lack of resources limited me to create one localizer
 Project meant for applications in situations of gun violence, such as high crime impoverished areas and school shootings
