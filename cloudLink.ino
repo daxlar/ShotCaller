@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid     = "Samsung Galaxy S8 6346";
-const char* password = "burningtre3";
+const char* ssid     = "";
+const char* password = "";
 const char* host = "192.168.43.96";
 uint16_t     testBuffer[10] = {256,257,258,259,260,261,262,263,264,265};
 uint8_t  packetData[4];
